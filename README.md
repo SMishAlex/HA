@@ -1,2 +1,2 @@
-# HalversonAtracter
+# HalvorsenAtracter
 labView project about halvorsenAtracter
