@@ -1,0 +1,4 @@
+Limp in 3d graph is broken by too litle toleracity
+imp have the same problem
+ecd have the same problem
+all this methods works correctly with toleracity 1e-14 and show some thing strange after 1e-15
